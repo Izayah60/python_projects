@@ -11,7 +11,7 @@ Your function should convert the number to a string and add commas as a thousand
 For example, calling format_number(1000000) should return "1,000,000".
 
 
-4.Here's the backstory for this challenge: imagine you're writing a tic-tac-toe game, where the board looks like this:
+4. Here's the backstory for this challenge: imagine you're writing a tic-tac-toe game, where the board looks like this:
 1:  X | O | X
    -----------
 2:    |   |  
