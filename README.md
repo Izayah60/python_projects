@@ -12,11 +12,11 @@ For example, calling format_number(1000000) should return "1,000,000".
 
 4. Here's the backstory for this challenge: imagine you're writing a tic-tac-toe game, where the board looks like this:
  
-1:  X | O | X
+1: X | O | X
    -----------
-2:    |   |  
+2:   |   |  
    -----------
-3:  O |   |
+3: O |   |
 
     A   B  C
 The board is represented as a 2D list:
